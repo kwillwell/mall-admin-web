@@ -7,7 +7,7 @@
                ref="loginForm"
                label-position="left">
         <div style="text-align: center">
-          <svg-icon icon-class="login-mall" style="width: 56px;height: 56px;color: #409EFF"></svg-icon>
+          <svg-icon icon-class="login-mall" style="width: 56px;height: 56px;color: #4acacb"></svg-icon>
         </div>
         <h2 class="login-title color-main">mall-admin-web</h2>
         <el-form-item prop="username">
@@ -146,7 +146,7 @@
     right: 0;
     width: 360px;
     margin: 140px auto;
-    border-top: 10px solid #409EFF;
+    border-top: 10px solid #4acacb;
   }
 
   .login-title {
@@ -154,7 +154,7 @@
   }
 
   .login-center-layout {
-    background: #409EFF;
+    background: #4acacb;
     width: auto;
     height: auto;
     max-width: 100%;
